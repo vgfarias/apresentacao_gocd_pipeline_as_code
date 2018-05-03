@@ -10,7 +10,7 @@
 	"materials": [
 		{
 		"url": "https://github.com/vgfarias/apresentacao_gocd_pipeline_as_code",
-		"branch": "master",
+		"branch": "teste",
 		"filter": {},
 		"destination": "repositorio_git",
 		"auto_update": true,
