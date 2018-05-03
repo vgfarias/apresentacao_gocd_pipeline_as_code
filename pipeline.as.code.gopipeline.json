@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"group": "Pipeline_as_Code",
-	"name": "pipeline_as_code_apresentacao",
+	"name": "pipeline_as_code_apresentacao_teste",
 	"label_template": "Revision-${repositorio_git}",
 	"parameters": [],
 	"mingle": {},
