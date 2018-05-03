@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"group": "Pipeline_as_Code",
-	"name": "pipeline_apresentacao",
+	"name": "pipeline_as_code_apresentacao",
 	"label_template": "Revision-${repositorio_git}",
 	"parameters": [],
 	"mingle": {},
@@ -20,7 +20,7 @@
 	],
 	"stages":[
 	{
-		"name": "NOME_STAGE",
+		"name": "zipando_diretorio",
 		"fetch_materials": true,
 		"never_cleanup_artifacts": false,
 		"clean_working_directory": true,
