@@ -20,7 +20,7 @@
 	],
 	"stages":[
 	{
-		"name": "NOME_STAGE",
+		"name": "zipando_diretorio",
 		"fetch_materials": true,
 		"never_cleanup_artifacts": false,
 		"clean_working_directory": true,
